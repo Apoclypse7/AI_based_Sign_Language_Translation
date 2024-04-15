@@ -1,1 +1,2 @@
 # AI_based_Sign_Language_Translation
+It is a sophisticated piece of software leveraging cutting-edge technologies like artificial intelligence and machine learning. Its primary function is to interpret sign language gestures into either written text or spoken language, facilitating communication between individuals who are deaf or hard of hearing and those who are not proficient in sign language. 
